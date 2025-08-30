@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
-        <title>YouTube operational API BTKBot</title>
+        <title>YouTube operational API BTKBot bis</title>
         <style>
             body {
                 max-width: 73%;
